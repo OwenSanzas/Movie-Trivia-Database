@@ -8,8 +8,7 @@ import movies.Actor;
 import movies.Movie;
 
 /**
- * CIT 590 HW9
- * made by Ze Sheng 57990537
+ * made by Ze Sheng
  */
 
 
